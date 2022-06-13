@@ -1,8 +1,8 @@
 {
-  "name-web":"ZONAMIKA",
-  "author":"ZONA MIKA",
+  "name-web":"BERITA TERBARU",
+  "author":"NADI GURU",
   "remove-comment-html":true,
-  "target":"https://hargadepo.com",
+  "target":"https://www.azwisata.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
