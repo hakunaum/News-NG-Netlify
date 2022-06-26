@@ -2,7 +2,7 @@
   "name-web":"BERITA TERBARU",
   "author":"NADI GURU",
   "remove-comment-html":true,
-  "target":"https://www.azwisata.com",
+  "target":"https://kbbi.web.id",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
